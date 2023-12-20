@@ -1,0 +1,59 @@
+body{
+    background-color: hsl(100, 67%, 90%);
+}
+nav{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    border: 5px solid black;
+}
+.button{
+    margin-left: 800px;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+}
+.text{
+    display: flex;
+    justify-content: left;
+    width: 400px;
+}
+.content{
+    width: 400px;
+}
+.container{
+    float: right;
+    width: 400px;
+}
+.luffy{
+    float: right;
+    width: 400px;
+}
+.black{
+    float: right;
+    width: 400px;
+}
+.weare{
+    float: right;
+}
+.break{
+    display: flex;
+    justify-content: center;
+}
+.okay{
+    display: flex;
+    justify-content: center;
+}
+.anime1{
+    display: flex;
+    justify-content: space-around;
+}
+.anime2{
+    display: flex;
+    justify-content: space-around;
+}
+header{
+    border: 2px solid #003456;
+}
